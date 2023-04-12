@@ -7,3 +7,19 @@
  <image src=/images/DML_script/dml_select.jpg
  alt="screen"
  caption="Заопрос информации">
+
+ ___
+  *Запрос с использование ***inner join*** and left join:* :white_check_mark:
+ -
+ В моем случае вывод команды inner join and left join однотипное
+ Команда inner join
+
+ <image src=/images/DML_script/inner_join.jpg
+ alt="screen"
+ caption="inner join">
+
+Команда left join
+
+ <image src=/images/DML_script/left_join.jpg
+ alt="screen"
+ caption="left join">
