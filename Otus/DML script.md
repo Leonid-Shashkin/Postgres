@@ -11,15 +11,22 @@
  ___
   *Запрос с использование ***inner join*** and left join:* :white_check_mark:
  -
- В моем случае вывод команды inner join and left join однотипное
- Команда inner join
+ В моем случае результат команды inner join and left join однотипный.
+
+ Команда inner join:
 
  <image src=/images/DML_script/inner_join.jpg
  alt="screen"
  caption="inner join">
 
-Команда left join
+Команда left join:
 
  <image src=/images/DML_script/left_join.jpg
+ alt="screen"
+ caption="left join">
+
+*В таблицу connect добавил соединение, затем изменил ip address соединения*
+-
+ <image src=/images/DML_script/update.jpg
  alt="screen"
  caption="left join">
