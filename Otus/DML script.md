@@ -25,7 +25,7 @@
  alt="screen"
  caption="left join">
 
-*В таблицу connect добавил соединение, затем изменил ip address соединения*
+*В таблицу connect добавил соединение, затем изменил ip address соединения* :white_check_mark:
 -
  <image src=/images/DML_script/update.jpg
  alt="screen"
