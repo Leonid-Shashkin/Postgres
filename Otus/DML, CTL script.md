@@ -3,11 +3,13 @@ ___
 
 ## *Запрос суммы очков с группировкой и сортировкой по годам*
 Тестовый Запрос:
+
    <image src=/images/DML_CTE/dml_sum.jpg     
  alt="screen"
  caption="Сумма очков по годам">
 
 Актуальный Запрос:
+
    <image src=/images/DML_CTE/sum_year.jpg
  alt="screen"
  caption="Сумма очков по годам">
