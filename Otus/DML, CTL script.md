@@ -1,11 +1,19 @@
  # ***Сдача домашнего задания на тему:  "DML: агрегация и сортировка, CTE, аналитические функции"*** 
-  запрос суммы очков с группировкой и сортировкой по годам
+___
 
-   <image src=/images/DML_CTE/dml_sum.jpg
+## *Запрос суммы очков с группировкой и сортировкой по годам*
+Тестовый Запрос:
+   <image src=/images/DML_CTE/dml_sum.jpg     
  alt="screen"
  caption="Сумма очков по годам">
 
- написать cte показывающее тоже самое
+Актуальный Запрос:
+   <image src=/images/DML_CTE/sum_year.jpg
+ alt="screen"
+ caption="Сумма очков по годам">
+___
+
+## *Написать cte показывающее тоже самое*
 
   <image src=/images/DML_CTE/DML_CTL.jpg
  alt="screen"
