@@ -22,6 +22,7 @@ ___
  caption="cte запрос"> 
 
 Варинт преподавателя: 
+
    <image src=/images/DML_CTE/dml_with.jpg
  alt="screen"
  caption="cte запрос"> 
@@ -29,6 +30,7 @@ ___
 
  ## *Вывести кол-во очков по всем игрокам за текущий год и за предыдущий.*
 Тестовый вариант
+
   <image src=/images/DML_CTE/dml_lag.jpg
  alt="screen"
  caption="Сумма очков за текущий год, как посчитать за предыдущий?"> 
